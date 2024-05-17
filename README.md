@@ -1,7 +1,7 @@
 # CMPE295B_Federated-Learning-on-Recommender-Systems
 ## Introduction
 ![image](https://github.com/ketanmalempati/CMPE295B_Federated-Learning-on-Recommender-Systems/assets/57043103/6b7a6a12-df9a-4960-aaa2-210727646e9d)
-
+<p align="justify"> 
 Recommender Systems have greatly affected how we consume services, products, and content
 in recent years. In the digital world, they are essential for users as well as companies and are
 widely used to influence user choices in products, food, music, movies, content, and many other
@@ -26,7 +26,8 @@ change when ranking recommendations but showed a slight decrease in efficiency w
 comes to predicting the ratings compared to traditional centralized approaches, which is
 expected as a significantly smaller dataset is used, in-turn we achieved complete data privacy
 and security. Overall, this approach is useful to achieve better user trust, experiences, and
-recommendations.
+recommendations. </p>
+
 ## Datasets
 ![image](https://github.com/ketanmalempati/CMPE295B_Federated-Learning-on-Recommender-Systems/assets/57043103/6379600e-e51e-4b46-a8eb-9ac9b891c7d8)
 
@@ -36,6 +37,14 @@ https://cseweb.ucsd.edu/~jmcauley/datasets.html#clothing_fit
 https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
 ### MarketBias
 https://cseweb.ucsd.edu/~jmcauley/datasets.html#market_bias
+### Amazon
+https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews
+### Google Review
+https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_local
+### GoodReads
+https://mengtingwan.github.io/data/goodreads.html
+### Spotify
+http://millionsongdataset.com/
 
 ## Architecture Diagram
 ![image](https://github.com/ketanmalempati/CMPE295B_Federated-Learning-on-Recommender-Systems/assets/57043103/3518f2d7-3c1b-404d-bd89-f5832d904998)
