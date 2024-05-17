@@ -46,8 +46,8 @@ https://cseweb.ucsd.edu/~jmcauley/datasets.html#market_bias
 Comparing different Federated Averaging methods:
 
 - SVD:
-  -- F1 Change (Avg): -2.61%
-  -- F1 Change (Weighted): -2.53%
+  - F1 Change (Avg): -2.61%
+  - F1 Change (Weighted): -2.53%
   RMSE Change (Avg): 25.35%
   RMSE Change (Weighted): 25.86%
 - SVDpp:
