@@ -1,6 +1,7 @@
 # CMPE295B_Federated-Learning-on-Recommender-Systems
 ## Introduction
 ![image](https://github.com/ketanmalempati/CMPE295B_Federated-Learning-on-Recommender-Systems/assets/57043103/6b7a6a12-df9a-4960-aaa2-210727646e9d)
+
 Recommender Systems have greatly affected how we consume services, products, and content
 in recent years. In the digital world, they are essential for users as well as companies and are
 widely used to influence user choices in products, food, music, movies, content, and many other
