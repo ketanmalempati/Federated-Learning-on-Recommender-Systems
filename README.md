@@ -1,5 +1,6 @@
 # CMPE295B_Federated-Learning-on-Recommender-Systems
 ## Introduction
+![image](https://github.com/ketanmalempati/CMPE295B_Federated-Learning-on-Recommender-Systems/assets/57043103/6b7a6a12-df9a-4960-aaa2-210727646e9d)
 
 ## Datasets
 ![image](https://github.com/ketanmalempati/CMPE295B_Federated-Learning-on-Recommender-Systems/assets/57043103/6379600e-e51e-4b46-a8eb-9ac9b891c7d8)
@@ -42,22 +43,24 @@ https://cseweb.ucsd.edu/~jmcauley/datasets.html#market_bias
 
 ![image](https://github.com/ketanmalempati/CMPE295B_Federated-Learning-on-Recommender-Systems/assets/57043103/44a78d18-0c97-411a-8cbf-d768c6aa5959)
 
-SVD:
-  F1 Change (Avg): -2.61%
-  F1 Change (Weighted): -2.53%
+Comparing different Federated Averaging methods:
+
+- SVD:
+  -- F1 Change (Avg): -2.61%
+  -- F1 Change (Weighted): -2.53%
   RMSE Change (Avg): 25.35%
   RMSE Change (Weighted): 25.86%
-SVDpp:
+- SVDpp:
   F1 Change (Avg): -3.18%
   F1 Change (Weighted): -3.13%
   RMSE Change (Avg): 24.13%
   RMSE Change (Weighted): 25.09%
-NMF:
+- NMF:
   F1 Change (Avg): -3.31%
   F1 Change (Weighted): -3.57%
   RMSE Change (Avg): 50.51%
   RMSE Change (Weighted): 51.42%
-NCF:
+- NCF:
   F1 Change (Avg): -33.05%
   F1 Change (Weighted): -28.84%
   RMSE Change (Avg): 24.07%
